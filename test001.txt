@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 jeesus saapuu
 more useless text!
+=======
+jeesus saapuu 
+more pointless text!
+tarzanin kalsarit
+>>>>>>> origin/master
